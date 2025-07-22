@@ -1,2 +1,17 @@
-# it-support-ticketing-system
-it-support-ticketing-system
+# IT Support Ticketing System (Still on progress)
+
+A simple web-based IT support ticketing system built with PHP and MySQL.
+
+## Features
+- Submit support tickets
+- View all tickets
+- Basic status tracking
+
+## Setup
+1. Clone the repo
+2. Import the SQL table
+3. Update `db.php` with your database credentials
+4. Run on localhost
+
+## Author
+Ujjwol
