@@ -1,5 +1,7 @@
 # IT Support Ticketing System (Still on progress)
 
+Need to work on diff login for IT team and customer
+
 A simple web-based IT support ticketing system built with PHP and MySQL.
 
 ## Features
